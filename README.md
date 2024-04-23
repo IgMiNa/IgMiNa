@@ -1,10 +1,10 @@
 # Saudações me chamo Igor.
 
-## Sou formado em Análise e Desenvolvimento de Sistemas pela UNIP.
+### Sou formado em Análise e Desenvolvimento de Sistemas pela UNIP.
 
-## Estou atualmente apreendendo sobre AWS e me aprofundando em Python.
+### Estou atualmente apreendendo sobre AWS e me aprofundando em Python.
 
-## Não apresento atividade profissional.
+### Não apresento atividade profissional.
 
 ## Linguagens - Frameworks - Ferramentas
 
